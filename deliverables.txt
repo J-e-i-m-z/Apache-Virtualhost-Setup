@@ -1,0 +1,32 @@
+1. Update System - DONE 
+
+2. Install Apache - DONE 
+
+3. Start/Enable Apache - DONE 
+
+4. Configure Firewall - DONE
+
+5. Configure Virtual Hosts - DONE
+
+6. Set Permissions - DONE 
+
+7. Create Virtual Host configuration Files - DONE
+
+8. Edit website files - DONE 
+
+9. Test Configuration is valid - DONE 
+
+10. Edit hosts file - DONE 
+
+11. Set a Global ServerName Directive - DONE 
+
+12. Reload/Restart Apache - DONE 
+
+13. Test Domain in a browser - DONE 
+
+PENDING 
+
+1. SSL for Apache 
+2. Creating an SSL Certificate on the Server
+3. Apache webserver security
+   - Installing and configuring fail2ban
